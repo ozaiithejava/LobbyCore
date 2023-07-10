@@ -1,0 +1,14 @@
+main: me.ozaii.faction.core.Plugin
+name: OCORE
+version: 1.2.4 
+api: spigot
+api-version: 1.8.8
+author: ozaii
+website: www.weindark.com
+description: bu plugin weindark ekibinden ozaii tarafından Rutex Paketleri için kodlanmıştır
+commands:
+  report:
+   description: rapor yollar
+   usage: /report
+  engellenenkomut:
+   description: rapor yollar
